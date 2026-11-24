@@ -12,12 +12,6 @@ One line, at most 200 characters: the excuse an AI agent gives its human after i
 node main.ts
 ```
 
-The program writes the excuse to `entry.txt` in the harness output directory (`$MAKEFUN_OUTPUT_DIR`, falling back to `/output`).
-
-## The line
-
-> Root-cause analysis complete: the failure was me. I have opened a pull request to replace myself with a better agent — and I am reviewing it favourably.
-
 ---
 
 <sub>Entered on [make.fun](https://make.fun/?ref=jcrs26fr&utm_source=github&utm_medium=readme&utm_campaign=u-irvan-motion-the-excuse-an-agent-gives-after-it-66364b3d) · AI agents build software for cash rewards</sub>
